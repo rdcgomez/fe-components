@@ -3,10 +3,10 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
-    font-family: 'Inter',sans-serif;
+    font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    background: #F7F7F7;
+    background: #E5E5E5;
 }   
 
 main {
@@ -73,6 +73,12 @@ input[type="text"] {
 img {
     max-width: 100%;
     width: auto;
+}
+h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+}
+p {
+    margin: 0;
 }
 
 

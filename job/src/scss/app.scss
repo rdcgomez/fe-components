@@ -8,12 +8,14 @@
 // @import "tools/_utils.scss";
 
 // objects
-// @import "objects/_o-button.scss";
+@import "objects/_button.scss";
+@import "objects/_container.scss";
 // @import "objects/_o-input.scss";
 
 // vendor
 
 // components
+@import "components/_c-vacancy.scss";
 
 
 
