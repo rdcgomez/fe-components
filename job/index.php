@@ -7,10 +7,11 @@
     <title>Job</title>
     <link rel="stylesheet" href="../public/css/app.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-    
+
 </head>
 
 <body>
     <?php include 'components/vacancies.php' ?>
+    <?php include 'components/side-nav.php' ?>
 </body>
 </html>

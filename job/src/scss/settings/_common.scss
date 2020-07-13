@@ -7,6 +7,7 @@ html, body {
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     background: #E5E5E5;
+    color: #ffffff;
 }   
 
 main {
@@ -27,8 +28,8 @@ figure {
 ol, ul {
     list-style: none;
     list-style-type: none;
-    margin: 30px 0 0;
-    padding: 0 35px 0 0;
+    margin: 0;
+    padding: 0;
 }
 
 input {
@@ -44,9 +45,6 @@ a {
     text-decoration: none !important;
 }
 
-li {
-    margin-bottom: 32px;
-}
 
 select,
 input[type="text"] {
